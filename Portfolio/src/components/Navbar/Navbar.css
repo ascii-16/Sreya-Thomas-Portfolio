@@ -1,0 +1,30 @@
+
+.nav-right-elements{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28px;
+}
+.nav-elements{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-left-elements{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+ul {
+    list-style-position: inside; 
+    margin: 0px;
+    padding: 0px;
+}
+.mailto{
+    text-decoration: none;
+    
+}
+  
